@@ -11,6 +11,6 @@ class MainActivity : AppCompatActivity() {
         val str: String = "commit 2"
         val str2: String = "commit 3"
         val str3: String = "commit 4"
-
+        val str4: String = "commit 5"
     }
 }
