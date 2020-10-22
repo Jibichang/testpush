@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val str: String = "commit 2"
+        val str2: String = "commit 3"
     }
 }
